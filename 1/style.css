@@ -1,6 +1,9 @@
 body {
     margin: 0;
 }
+.span{
+    max-width: 30px;
+}
 .left-side {
     background-size: cover;
     background-position: center;
@@ -55,7 +58,7 @@ p {
     font-family: monospace;
     display: flex;
     font-size: 15px;
-    color: #667387;
+    color: #134186;
 }
 input {
     font-size: 15px;
@@ -69,12 +72,6 @@ input {
     font-family: monospace;
     color: white;
     background-color: #497228;
-}
-p {
-    font-family: monospace;
-    display: flex;
-    font-size: 15px;
-    color: #667387;
 }
 .click {
     color: #497228;
