@@ -1,0 +1,82 @@
+
+.left-side {
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    background-image: url(./amfibi.jpg);
+}
+h2 {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-family: monospace;
+    color: #497228;
+}
+.right-side {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    right: 0;
+    background-color: #32404200;
+}
+form {
+    text-align: center;
+    padding: 70px;
+    background-color: #239caf00;
+}
+.logo {
+    max-height: 90px;
+}
+h1 {
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-family: monospace;
+    color: #497228;
+}
+p {
+    font-family: monospace;
+    display: flex;
+    font-size: 25px;
+    color: #497228;
+}
+input {
+    font-size: 15px;
+    border: 0;
+    border-bottom: 1px solid #e0e3e7;
+    padding: 10px 15px;
+}
+p {
+    font-family: monospace;
+    display: flex;
+    font-size: 15px;
+    color: #667387;
+}
+input {
+    font-size: 15px;
+    border: 0;
+    border-bottom: 1px solid #e0e3e7;
+    padding: 10px 15px;
+}
+.button {
+    margin-top: 30px;
+    padding: 5px 50px;
+    font-family: poppins;
+    color: white;
+    background-color: #497228;
+}
+p {
+    font-family: monospace;
+    display: flex;
+    font-size: 15px;
+    color: #667387;
+}
+.click {
+    color: #497228;
+}
+a {
+    margin-left: 5px;
+}
